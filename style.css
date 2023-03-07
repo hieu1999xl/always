@@ -12,6 +12,9 @@ body {
   overflow: hidden;
 }
 
+/* video {
+  display: none;
+} */
 
 .container_text {
   width: 100%;

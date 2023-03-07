@@ -1,3 +1,4 @@
+document.getElementById("myAudio").play();
 //background animation
 let tl = anime.timeline({
   easing: 'easeOutExpo',
